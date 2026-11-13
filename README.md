@@ -1,4 +1,4 @@
-# 🤖 PLN — Atividade Extra 2.1: Chatbot Clássico de Intenções (`TF-IDF + LinearSVC`)
+# PLN — Atividade Extra 2.1: Chatbot Clássico de Intenções (`TF-IDF + LinearSVC`)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aj1no/PLN_Atividade_Extra_2_1_Chatbot_Classico/blob/main/Aula09_Chatbot_Classico.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -10,7 +10,7 @@ Repositório referente à **Atividade Extra 2.1 (Aula 09 — Chatbots Clássicos
 
 ---
 
-## 📋 Informações Acadêmicas
+## Informações Acadêmicas
 
 - **Curso:** Ciência de Dados (5º Semestre)
 - **Disciplina:** Processamento de Linguagem Natural (PLN)
@@ -20,7 +20,7 @@ Repositório referente à **Atividade Extra 2.1 (Aula 09 — Chatbots Clássicos
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 1. **Explicar** como um chatbot de domínio fechado reconhece intenções como um problema de classificação supervisionada multiclasse ($f: X \to Y$).
 2. **Treinar e avaliar** um classificador de intenções com **Scikit-learn** (`TfidfVectorizer` + `LinearSVC`) no dataset **BANKING77** (10.003 exemplos de treino/validação, 3.080 de teste oficial e 77 intenções bancárias).
@@ -29,7 +29,7 @@ Repositório referente à **Atividade Extra 2.1 (Aula 09 — Chatbots Clássicos
 
 ---
 
-## 📊 Principais Resultados
+## Principais Resultados
 
 ### 1. Desempenho do Classificador (Exercício 1: Unigramas vs. Unigramas + Bigramas)
 
@@ -74,7 +74,7 @@ Três casos representativos do conjunto de teste foram investigados:
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 PLN_Atividade_Extra_2_1_Chatbot_Classico/
@@ -86,7 +86,7 @@ PLN_Atividade_Extra_2_1_Chatbot_Classico/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clique no botão **Open in Colab** no topo deste README para abrir o notebook diretamente no Google Colab.
 2. Ou execute localmente em um ambiente com Python 3.10+:
@@ -97,7 +97,7 @@ PLN_Atividade_Extra_2_1_Chatbot_Classico/
 
 ---
 
-## 🛠️ Relato de Uso de Ferramentas de IA
+## Relato de Uso de Ferramentas de IA
 
 Conforme exigido nas instruções da disciplina:
 
